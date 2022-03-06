@@ -1,3 +1,4 @@
+-- comentario desde git
 -- Create a database master key if one does not already exist, using your own password. This key is used to encrypt the credential secret in next step.
 CREATE MASTER KEY --ENCRYPTION BY PASSWORD = 'P@ssw0rd12345'
 
